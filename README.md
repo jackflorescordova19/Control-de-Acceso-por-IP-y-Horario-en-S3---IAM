@@ -40,6 +40,12 @@ Esto permite reforzar la seguridad y aplicar controles granulares sobre los dato
    - Listar Nuestro S3 para comprobar la conexión y permisos
      comando: aws s3 ls s3://s3-ip-test-jack --profile UserTest
      
+## ☁️ Evidencias
+- Creación de Pol+itica - IAM
+   ![Política](Política.png)
+- 
+- 
+     
 ## ✅ Resultados
 - El bucket solo aceptó conexiones desde la IP configurada.
 - Los intentos fuera del horario definido fueron bloqueados correctamente.
