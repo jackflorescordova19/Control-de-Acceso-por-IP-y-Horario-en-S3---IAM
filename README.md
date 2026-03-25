@@ -41,9 +41,10 @@ Esto permite reforzar la seguridad y aplicar controles granulares sobre los dato
      comando: aws s3 ls s3://s3-ip-test-jack --profile UserTest
      
 ## ☁️ Evidencias
-- Creación de Pol+itica - IAM
-   ![Política](Política.png)
-- 
+- Creación de Política - IAM
+  ![Política](Política.png)
+- Usuario creado y adjuntado la política
+  ![User-Polit](User-Polit.png)
 - 
      
 ## ✅ Resultados
