@@ -41,11 +41,16 @@ Esto permite reforzar la seguridad y aplicar controles granulares sobre los dato
      comando: aws s3 ls s3://s3-ip-test-jack --profile UserTest
      
 ## ☁️ Evidencias
-- Creación de Política - IAM
+- Creación de la Política de acceso por IP y Horario en S3  - Json
   ![Política](Política.png)
 - Usuario creado y adjuntado la política
   ![User-Polit](User-Polit.png)
-- 
+- Creación de S3
+  ![S3](S3.png)
+- Configuración y conectividad de Usuario por PowerShell
+  ![Confi-user](Confi-user.png)
+- Verificación de condición de la Política
+  ![Verif-Polit](Verif-Polit.png)
      
 ## ✅ Resultados
 - El bucket solo aceptó conexiones desde la IP configurada.
