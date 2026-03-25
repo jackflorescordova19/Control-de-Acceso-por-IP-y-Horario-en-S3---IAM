@@ -41,7 +41,7 @@ Esto permite reforzar la seguridad y aplicar controles granulares sobre los dato
      comando: aws s3 ls s3://s3-ip-test-jack --profile UserTest
      
 ## ☁️ Evidencias
-- Creación de la Política de acceso por IP y Horario en S3  - Json
+- Creación de la Política de acceso por IP y Horario Programado en Json
   ![Política](Política.png)
 - Usuario creado y adjuntado la política
   ![User-Polit](User-Polit.png)
