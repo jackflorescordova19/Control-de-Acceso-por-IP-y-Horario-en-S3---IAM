@@ -51,7 +51,7 @@ Esto permite reforzar la seguridad y aplicar controles granulares sobre los dato
   ![Confi-user](Confi-user.png)
 - Verificación de condición de la Política
   ![Verif-Polit](Verif-Polit.png)
-     
+  
 ## ✅ Resultados
 - El bucket solo aceptó conexiones desde la IP configurada.
 - Los intentos fuera del horario definido fueron bloqueados correctamente.
